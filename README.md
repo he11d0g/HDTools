@@ -1,4 +1,4 @@
-yii-ext
+HDTools
 =======
 
-extensions for Yii Framework
+Component for Yii Framework
