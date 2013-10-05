@@ -27,7 +27,7 @@ class HDTools
     /**
      * @param $mail Непосредственно сам email
      * @param null $image Адрес картинки или псевдоним из шаблона. По умлочанию берется псевдоним 'default'
-     * @return string
+     * @return string E-mail
      */
     static function hideMail($mail,$image = null)
     {
